@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-unsplash-api/static/css/main.6c3ee3d9.css",
-    "main.js": "/react-unsplash-api/static/js/main.f44b8e86.js",
+    "main.js": "/react-unsplash-api/static/js/main.88db0a1e.js",
     "static/js/787.4cce7243.chunk.js": "/react-unsplash-api/static/js/787.4cce7243.chunk.js",
     "index.html": "/react-unsplash-api/index.html",
     "main.6c3ee3d9.css.map": "/react-unsplash-api/static/css/main.6c3ee3d9.css.map",
-    "main.f44b8e86.js.map": "/react-unsplash-api/static/js/main.f44b8e86.js.map",
+    "main.88db0a1e.js.map": "/react-unsplash-api/static/js/main.88db0a1e.js.map",
     "787.4cce7243.chunk.js.map": "/react-unsplash-api/static/js/787.4cce7243.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3ee3d9.css",
-    "static/js/main.f44b8e86.js"
+    "static/js/main.88db0a1e.js"
   ]
 }
