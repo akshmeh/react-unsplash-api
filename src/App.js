@@ -12,8 +12,8 @@ function App() {
     <Router>
     <Routes>
           
-          <Route exact path="/photo/:id" element={<Photo />} />
-          <Route exact path="/" element={<Home />} />
+          <Route exact path="/react-unsplash-api/photo/:id" element={<Photo />} />
+          <Route exact path="/react-unsplash-api/" element={<Home />} />
         </Routes>
        </Router>
   );
