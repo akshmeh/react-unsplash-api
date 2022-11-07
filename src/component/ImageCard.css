@@ -1,0 +1,32 @@
+.image-card{
+    width:calc( 100vw - 78% );
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 10px 1px #d3d3d3;
+}
+.image{
+    width:100%;
+}
+.image img{
+    width: 100%;
+}
+.image-content{
+    display: grid;
+    grid-row: 2;
+    grid-column: 2;
+  }
+  
+  .image-content .image-name{
+  margin: 1rem 0 0 0;
+  }
+  .image-content .image-download{
+        /* grid-area: 2/1; */
+        padding: 10px 20px;
+        background: blue;
+        width: 50%;
+        text-align: center;
+        color: #fff;
+        text-decoration: none;
+        margin: 1rem 0;
+        border-radius: 20px;
+  }
