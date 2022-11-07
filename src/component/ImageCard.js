@@ -13,7 +13,7 @@ export const ImageCard = (props) => {
         <h4 className='image-name'>{props.user.name}</h4>
         <p className='image-likes'>Likes: {props.likes}</p>
         {/* <p className='image-likes'>Download: {props.downloads}</p> */}
-        <Link className='image-download' to={`/photo/${props.id}`}>View more</Link>
+        <Link className='image-download' to={`/react-unsplash-api/photo/${props.id}`}>View more</Link>
         </div>
     </div>
   )
