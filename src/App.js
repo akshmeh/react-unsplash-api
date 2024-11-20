@@ -8,6 +8,7 @@ import  Home  from './views/Home'
 import { Photo } from "./views/Photo";
 
 function App() {
+
   return (
     <Router>
     <Routes>

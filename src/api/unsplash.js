@@ -1,4 +1,4 @@
-const AccessKey = 'QD7Gy7OCj5qKg_y9j5oEEeuY_evlRNL1pZgJ12CfVJg';
+const AccessKey = process.env.REACT_APP_ACCESS_KEY;
 
 export const clienID = `?client_id=${AccessKey}`
 export const randomPhotos = `https://api.unsplash.com/photos${clienID}`;
